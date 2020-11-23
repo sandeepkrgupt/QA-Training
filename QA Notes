@@ -1,0 +1,10 @@
+s/w validation vs s/w varification ?
+Ans - 
+1. Verification process includes checking of documents, design, code and program whereas 
+2. Validation process includes testing and validation of the actual product.
+3. Verification does not involve code execution while Validation involves code execution.
+4. Verification uses methods like reviews, walkthroughs, inspections and desk-checking whereas 
+Validation uses methods like black box testing, white box testing and non-functional testing.
+5. Verification checks whether the software confirms a specification whereas Validation checks whether the software meets the requirements and expectations.
+6. Verification finds the bugs early in the development cycle whereas Validation finds the bugs that verification can not catch.
+7. Verification process comes before validation whereas Validation process comes after verification.
