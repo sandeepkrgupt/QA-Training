@@ -1,0 +1,16 @@
+i have develop 
+
+initial level framework
+
+api testing manually using postman
+
+i worked both s/w developer and tester role.
+
+static varibale replace existing varibale
+stic var can directly acces using class name, no need create object of class
+public static final String showMessageText = "Hello My Name is Sandip !";
+
+objSimpleFormDemoPage.enterMessage(TestData.showMessageText);//objTestData.showMessageText
+
+gaurav shukla
+naveen automation java practical

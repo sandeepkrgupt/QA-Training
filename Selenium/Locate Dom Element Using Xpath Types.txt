@@ -1,0 +1,14 @@
+//span[@id='displayvalue']/preceding-simbling::label
+//span[@id='displayvalue']/following-simbling::label
+
+
+//div/child::input[@id='sum1']
+
+
+//label[text()=' Total a + b = ']/ancestor::form[@id='gettotal']
+
+//form/descendant::label[text()='Enter message']/following-simbling::input
+
+
+Getting dynamic Table elements
+//table[@id='task-table']/thead[1]/tr[1]/th[4]

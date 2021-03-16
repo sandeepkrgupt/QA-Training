@@ -1,0 +1,47 @@
+steps -
+1. new
+2. package (package name) select public main option
+3. right click ur package name 
+4. new
+5. select class 
+purple color is java keyword.
+
+ctrl+space to show intelligence 
+
+Java compiler - compile ur code
+JRE - run ur code.
+
+QA1 Java code can be run on multiple platforms, for example, Windows, Linux, Sun Solaris, Mac/OS, etc. Java code is compiled by the 
+compiler and converted into bytecode. 
+This bytecode is a platform-independent code because it can be run on multiple platforms, i.e., Write Once and Run Anywhere(WORA)
+// conditional statement
+if
+nested if
+if .. else
+if else if
+switch
+-------------
+abstraction - hiding or showing something
+default - only visible to same package.
+variables are private , which can be access using get and set methods which are public is called encapsulation.
+--------------------
+Inheritance
+accessing/adapting all the properties or behavior of parent class into child class for method overriding and code re-usability.
+types
+1. single = one parent one child.a is parent of b.
+2. multiple = multiple parent one child. a and b is parent of c.NOT ALLOWED IN JAVA
+3. multi level = a parent of b , b parent of c.
+4. hierarchical = one parent multiple child. a is parent of b and c.
+-----------
+encapsulation - variable are private , we can access using getter and setter.
+when objects are different but behavior are same can be put into interface like Animal - dog,cat,tiger but common behavior -eat, sleep, drink, sound.
+------------------
+ctrl + shift + i = import all in your file.
+------------------------------log4j--------------------
+https://downloads.apache.org/logging/log4j/1.2.17/log4j-1.2.17.zip
+-------------------------------TestNG---------------------------
+
+go to - eclipse help - eclipse marcket place - search TestNG - install - confirm.
+TestNG is a testing framework that is capable of making Selenium tests easier to understand and of generating reports that are easy to understand. The main advantages of TestNG over JUnit are the following. ... Test cases can be grouped more easily. TestNG allows us to create parallel tests.
+
+TestNG to generate reports.
